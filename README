@@ -1,0 +1,10 @@
+Sample code in Python verified with:
+- self-built
+2.7.14
+3.6.2
+- installed
+2.6.5
+3.1.2
+
+Uses partial module override from 2.7.14 library source
+class Decimal function __str__
